@@ -18,7 +18,7 @@ Responsibilities as Chief Information Officer at ACP Decisions:
 - Developing our long term technical strategy
 - Ensuring the security and integrity of our systems and products
 - Managing the product development of our web and API web services collectively called [My ACP Decisions](https://my.acpdecisions.org/#!/login) used by thousands of clinicians and patients
-- Developing and maintaining [ACP Tools](https://itunes.apple.com/us/app/acp-tools/id777516324?mt=8) our iOS App
+- Developing and maintaining our iOS App [ACP Tools](https://itunes.apple.com/us/app/acp-tools/id777516324?mt=8)
 - Developing and maintaining a Mac application that evaluates the health of our infrastructure, checks the quality of our content library, and automates repetative tasks for the team
 - Writing our [user guides and support documentation](https://docs.app.acpdecisions.org)
 - Maintaining [our company website](https://acpdecisions.org)
