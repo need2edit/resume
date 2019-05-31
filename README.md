@@ -7,7 +7,15 @@ Below you'll find an overview of who I am, what I do, and a list of helpful reso
 
 🎞 My background is in TV and film production. I love a good movie. 🤓 I love finding solutions to problems. If I'm not programming you can find me skiing ⛷or trying my hand at home renovation .🔨 
 
-My goal is to work on great projects with great people. I'm passionate about creating easy to use products that save people time. I pride myself on the ability to rapidly try out new ideas, and develop corresponding product pipelines.
+My goal is to work on great projects with great people. I'm passionate about creating easy to use products that save people time. I pride myself on the ability to rapidly try out new ideas and develop corresponding product pipelines.
+
+# Experience
+
+- 4 years of Swift development. I ship production frameworks and apps exclusively in Swift now.
+- 3 years of Objective-C development.
+- 7 years of iOS and Mac App development.
+- 10 years of Web development.
+- I use MVVM, MVC, Coordinator Design Patterns in my projects depending on need.
 
 # Current Work
 
@@ -30,8 +38,9 @@ Responsibilities as Chief Information Officer at ACP Decisions:
   - Swift (core competency)
   - UIKit Animation and Design
   - API Web Service Modeling
-  - ResearchKit
+  - AVFoundation & AVKit
 - Objective-C
+  - ResearchKit
 - Web Development
   - HTML, CSS, JavaScript
   - Bootstrap
@@ -101,7 +110,8 @@ Responsibilities as Chief Information Officer at ACP Decisions:
 - [ACP Tools](https://itunes.apple.com/us/app/acp-tools/id777516324?mt=8) - A mobile app for iOS/Android for empowering patients with advance care planning content; provides offline video playback and analytics
 - [AgreementKit](https://github.com/need2edit/AgreementKit) - A quick and easy way to ask for affirmative consent and terms and conditions on iOS
 - HelpscoutDocs - A swift package for interacting with the HelpScout help desk API
-- [Wistia](https://github.com/need2edit/wistia) - A swift package for working with the [Wistia](https://wistia.com) Data and Stats APIs 
+- [Wistia](https://github.com/need2edit/wistia) - A swift package for working with the [Wistia](https://wistia.com) Data and Stats APIs
+- Shelves - A collection view layout system for making grid based applicatitons easier to manage and more polished. Planning on publishing in 2019. 
 
 # My Toolchain
 
