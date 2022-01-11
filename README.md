@@ -5,9 +5,11 @@ Below you'll find an overview of who I am, what I do, and a list of helpful reso
 
 # What I do
 
-🎞 My background is in TV and film production. I love a good movie. 🤓 I love finding solutions to problems. If I'm not programming you can find me skiing ⛷or trying my hand at home renovation .🔨 
+🎞 My background is in TV and film production. I love a good movie. 🤓 I love finding solutions to problems. When I'm not programming you can find me skiing ⛷or trying my hand at home renovation .🔨 
 
 My goal is to work on great projects with great people. I'm passionate about creating easy to use products that save people time and pride myself on the ability to rapidly try out new ideas and develop corresponding product pipelines.
+
+But Jake, how did you go from a film person to a software engineer? Great question, so glad you asked. Videos need a place to live, like a website or an app. You're also always looking to shave off time when preparing videos for apps and websites. Encoding video is hard and technical. Streaming protocols, exporting with command line tools, understanding the pipeline, and finding time savers takes you to a lot of places. I fell in love with building apps and tools along the way.
 
 # Experience
 
