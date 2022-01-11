@@ -124,7 +124,7 @@ The higher up on the list, the better I know it. I've been in jobs where resourc
 - [AgreementKit](https://github.com/need2edit/AgreementKit) - A quick and easy way to ask for affirmative consent and terms and conditions on iOS
 - HelpscoutDocs - A swift package for interacting with the HelpScout help desk API
 - [Wistia](https://github.com/need2edit/wistia) - A swift package for working with the [Wistia](https://wistia.com) Data and Stats APIs
-- Shelves - A collection view layout system for making grid based applicatitons easier to manage and more polished. Planning on publishing in 2019. 
+- Shelves - A collection view layout system for making grid based applicatitons easier to manage and more polished. Published in 2017, retired 2019 after Apple published the amazing [UICollectionViewCompositionalLayout](https://developer.apple.com/documentation/uikit/uicollectionviewcompositionallayout).
 
 # My Toolchain
 
