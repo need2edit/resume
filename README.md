@@ -7,18 +7,22 @@ Below you'll find an overview of who I am, what I do, and a list of helpful reso
 
 🎞 My background is in TV and film production. I love a good movie. 🤓 I love finding solutions to problems. If I'm not programming you can find me skiing ⛷or trying my hand at home renovation .🔨 
 
-My goal is to work on great projects with great people. I'm passionate about creating easy to use products that save people time. I pride myself on the ability to rapidly try out new ideas and develop corresponding product pipelines.
+My goal is to work on great projects with great people. I'm passionate about creating easy to use products that save people time and pride myself on the ability to rapidly try out new ideas and develop corresponding product pipelines.
 
 # Experience
 
-- 4 years of Swift development. I ship production frameworks and apps exclusively in Swift now.
-- 3 years of Objective-C development.
-- 7 years of iOS and Mac App development.
-- 10 years of Web development.
-- I use MVVM, MVC, Coordinator Design Patterns in my projects depending on need.
+- 15 years of iOS, Mac, and Web Development.
+- 8 years of Swift development. I've been here the whole time.
+- 15 years of Objective-C development.
+- I bounce between customer facing apps and backend tooling.
 
 # Current Work
 
+I make the Rue and Gilt Apps for iOS at Rue Gilt Groupe.
+
+# Previous Work Experience
+
+## ACP Decisions
 I lead product development and IT infrastructure at [ACP Decisions](https://acpdecisions.org). We have [a large library of videos and guides](https://acpdecisions.org/library/) (250+) in over 20 languages that help patients make informed medical decisions (250+). I am the lead developer of our iOS app, and oversee the product development for our web services. Some of the largest healthcare networks utilize this content and our platform to ensure that patients are empowered with essential information to make informed medical decisions.
 
 Responsibilities as Chief Information Officer at ACP Decisions: 
@@ -34,9 +38,12 @@ Responsibilities as Chief Information Officer at ACP Decisions:
 
 # Technology Skillset
 
+The higher up on the list, the better I know it. I've been in jobs where resources were extremely constrained, forcing me to learn something new, and deliver something quickly. Each of these technologies got me there. Could I write you a working PHP app tomorrow? I'm probably a little rusty.
+
 - Swift Development
   - Swift (core competency)
   - UIKit Animation and Design
+  - SwiftUI
   - API Web Service Modeling
   - AVFoundation & AVKit
 - Objective-C
@@ -59,6 +66,7 @@ Responsibilities as Chief Information Officer at ACP Decisions:
   - Pivotal Tracker
   - Device Management (JAMF, Apple MDM)
   - Bash
+  - Custom CLI/CD Tooling
 - Video Production
   - Wistia Administration
   - 3PlayMedia 
@@ -68,6 +76,7 @@ Responsibilities as Chief Information Officer at ACP Decisions:
   - Motion
   - Adobe After Effects
 - Documentation
+  - DocC
   - HelpScout
   - Jekyll
   - Gitbook
@@ -107,6 +116,8 @@ Responsibilities as Chief Information Officer at ACP Decisions:
 
 # Portfolio 
 
+- [Gilt](https://apps.apple.com/us/app/gilt-shop-designer-sales/id331804452) - Shop on the go and get incredible steals for women, men, kids and home to inspire every facet of your life. Plus, find deals for unforgettable experiences available in your city.
+- [Rue La La](https://apps.apple.com/us/app/rue-la-la-shop-top-fashion/id373179553) - A friendly and fun way to shop for the latest Rue La La deals.
 - [ACP Tools](https://itunes.apple.com/us/app/acp-tools/id777516324?mt=8) - A mobile app for iOS/Android for empowering patients with advance care planning content; provides offline video playback and analytics
 - [AgreementKit](https://github.com/need2edit/AgreementKit) - A quick and easy way to ask for affirmative consent and terms and conditions on iOS
 - HelpscoutDocs - A swift package for interacting with the HelpScout help desk API
