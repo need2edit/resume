@@ -128,12 +128,15 @@ The higher up on the list, the better I know it. I've been in jobs where resourc
 
 # My Toolchain
 
-- [Xcode](https://developer.apple.com/xcode/) - Because Apple development
+- [Xcode](https://developer.apple.com/xcode/) - Because Apple development.
+- [RocketSim](https://www.rocketsim.app) - An amazing tool for comparing screenshots using the iOS simulator.
+- [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - Managing multiple versions of Xcode easily.
 - Keynote - Prototype animations and [fake it until you make it](https://developer.apple.com/videos/play/wwdc2014/223) in Sketch.
-- [Sketch](https://www.sketchapp.com) - I haven't used Adobe products in a while. Sketch is the best design app out there
-- [Tableau](https://www.tableau.com) - The best way to work with a lot of data
-- [Typora](https://typora.io) - Clean and simple markdown editor
-- [Querious](https://www.araelium.com/querious) - Awesome MySQL Database Client
-- [MySQL Workbench](https://www.mysql.com/products/workbench/) - A great way to generate object graphs of complex databases
-- [SourceTree](https://www.sourcetreeapp.com) - Great Git client. I use git-flow to manage my feature development
-- [docsify](https://docsify.js.org) - A fantastic documentation generator using Jekyll and markdown
+- [Figma](https://www.figma.com/) - Turning mock ups into native features.
+- [Sketch](https://www.sketchapp.com) - I haven't used Adobe products in a while. I use Sketch for my personal projects, Figma for work.
+- [Tableau](https://www.tableau.com) - The best way to work with a lot of data.
+- [Typora](https://typora.io) - Clean and simple markdown editor.
+- [Querious](https://www.araelium.com/querious) - Awesome MySQL Database Client.
+- [MySQL Workbench](https://www.mysql.com/products/workbench/) - A great way to generate object graphs of complex databases.
+- [SourceTree](https://www.sourcetreeapp.com) - Great Git client. I use git-flow to manage my feature development.
+- [docsify](https://docsify.js.org) - A fantastic documentation generator using Jekyll and markdown.
